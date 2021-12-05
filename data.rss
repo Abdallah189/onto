@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://www.ecdc.europa.eu/en">
+  <channel>
+    <title>ECDC - RSS - COVID-19</title>
+    <link>https://www.ecdc.europa.eu/en</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Epidemiological update: Omicron variant of concern (VOC) – data as of 5 December 2021 (12.00)</title>
+  <link>https://www.ecdc.europa.eu/en/news-events/epidemiological-update-omicron-variant-concern-voc-data-5-december-2021</link>
+  <description>As of 5 December and since 4 December 2021, 16 additional SARS-CoV-2 Omicron variant of concern (VOC) cases have been confirmed in the European Union and European Economic Area (EU/EEA), contributing to an overall total of 182 confirmed cases to date. </description>
+  <pubDate>Sun, 05 Dec 2021 13:00:00 +0100</pubDate>
+    <dc:creator>ECDC</dc:creator>
+    <guid isPermaLink="true">https://www.ecdc.europa.eu/en/news-events/epidemiological-update-omicron-variant-concern-voc-data-5-december-2021</guid>
+    </item>
+<item>
+  <title>Epidemiological update: Omicron variant of concern (VOC) – data as of 4 December 2021 (12.00)</title>
+  <link>https://www.ecdc.europa.eu/en/news-events/epidemiological-update-omicron-data-4-december-2021</link>
+  <description>As of 4 December and since 3 December 2021, 58 additional SARS-CoV-2 Omicron variant of concern (VOC) cases have been confirmed in the European Union and European Economic Area (EU/EEA), contributing to an overall total of 167 confirmed cases so far.</description>
+  <pubDate>Sat, 04 Dec 2021 13:00:00 +0100</pubDate>
+    <dc:creator>ECDC</dc:creator>
+    <guid isPermaLink="true">https://www.ecdc.europa.eu/en/news-events/epidemiological-update-omicron-data-4-december-2021</guid>
+    </item>
+<item>
+  <title>Epidemiological update: Omicron variant of concern (VOC) – data as of 3 December 2021 (12.00)</title>
+  <link>https://www.ecdc.europa.eu/en/news-events/epidemiological-update-omicron-data-3-december-2021</link>
+  <description>As of 3 December and since 2 December 2021, 30 additional SARS-CoV-2 Omicron variant of concern (VOC) cases have been confirmed in the European Union and European Economic Area (EU/EEA), contributing to an overall total of 109 confirmed cases so far. </description>
+  <pubDate>Fri, 03 Dec 2021 13:00:00 +0100</pubDate>
+    <dc:creator>ECDC</dc:creator>
+    <guid isPermaLink="true">https://www.ecdc.europa.eu/en/news-events/epidemiological-update-omicron-data-3-december-2021</guid>
+    </item>
+<item>
+  <title>Communicable disease threats report, 28 November-4 December 2021, week 48</title>
+  <link>https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-28-november-4-december-2021-week-48</link>
+  <description>This issue of the CDTR covers the period 28 November-4 December 2021 and includes updates on COVID-19, Ebola, and Influenza.</description>
+  <pubDate>Fri, 03 Dec 2021 13:00:00 +0100</pubDate>
+    <dc:creator>ECDC</dc:creator>
+    <guid isPermaLink="true">https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-28-november-4-december-2021-week-48</guid>
+    </item>
+<item>
+  <title>Data on COVID-19 vaccination in the EU/EEA </title>
+  <link>https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea</link>
+  <description>The downloadable data files contain information on COVID-19 vaccination in the EU/EEA. The data are presented in the Vaccine Tracker and collected through The European Surveillance System (TESSy).</description>
+  <pubDate>Fri, 03 Dec 2021 13:00:00 +0100</pubDate>
+    <dc:creator>ECDC</dc:creator>
+    <guid isPermaLink="true">https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea</guid>
+    </item>
+<item>
+  <title>Data on the daily number of new reported COVID-19 cases and deaths by EU/EEA country</title>
+  <link>https://www.ecdc.europa.eu/en/publications-data/data-daily-new-cases-covid-19-eueea-country</link>
+  <description>The downloadable data file is updated daily and contains the latest available public data on COVID-19. Each row/entry contains the number of new cases and deaths reported per day and per country in the EU/EEA. </description>
+  <pubDate>Fri, 03 Dec 2021 13:00:00 +0100</pubDate>
+    <dc:creator>ECDC</dc:creator>
+    <guid isPermaLink="true">https://www.ecdc.europa.eu/en/publications-data/data-daily-new-cases-covid-19-eueea-country</guid>
+    </item>
+<item>
+  <title>Positivity rates, updated 2 December 2021</title>
+  <link>https://www.ecdc.europa.eu/en/publications-data/positivity-rates-updated-2-december-2021</link>
+  <description>Maps in support of the Council Recommendation on a coordinated approach to travel measures in the EU</description>
+  <pubDate>Thu, 02 Dec 2021 13:00:00 +0100</pubDate>
+    <dc:creator>ECDC</dc:creator>
+    <guid isPermaLink="true">https://www.ecdc.europa.eu/en/publications-data/positivity-rates-updated-2-december-2021</guid>
+    </item>
+<item>
+  <title>Testing rates per 100 000 inhabitants, updated 2 December 2021</title>
+  <link>https://www.ecdc.europa.eu/en/publications-data/testing-rates-100-000-inhabitants-updated-2-december-2021</link>
+  <description>Maps in support of the Council Recommendation on a coordinated approach to travel measures in the EU</description>
+  <pubDate>Thu, 02 Dec 2021 13:00:00 +0100</pubDate>
+    <dc:creator>ECDC</dc:creator>
+    <guid isPermaLink="true">https://www.ecdc.europa.eu/en/publications-data/testing-rates-100-000-inhabitants-updated-2-december-2021</guid>
+    </item>
+<item>
+  <title>14-day case notification rate per 100 000 inhabitants, updated 2 December 2021</title>
+  <link>https://www.ecdc.europa.eu/en/publications-data/14-day-case-notification-rate-100-000-inhabitants-updated-2-december-2021</link>
+  <description>Maps in support of the Council Recommendation on a coordinated approach to travel measures in the EU</description>
+  <pubDate>Thu, 02 Dec 2021 13:00:00 +0100</pubDate>
+    <dc:creator>ECDC</dc:creator>
+    <guid isPermaLink="true">https://www.ecdc.europa.eu/en/publications-data/14-day-case-notification-rate-100-000-inhabitants-updated-2-december-2021</guid>
+    </item>
+<item>
+  <title>Combined indicator: 14-day notification rate, testing rate and test positivity, updated 2 December 2021 (colour-blind friendly)</title>
+  <link>https://www.ecdc.europa.eu/en/publications-data/combined-indicator-14-day-notification-rate-testing-rate-and-test-positivity-57</link>
+  <description>Maps in support of the Council Recommendation on a coordinated approach to travel measures in the EU</description>
+  <pubDate>Thu, 02 Dec 2021 13:00:00 +0100</pubDate>
+    <dc:creator>ECDC</dc:creator>
+    <guid isPermaLink="true">https://www.ecdc.europa.eu/en/publications-data/combined-indicator-14-day-notification-rate-testing-rate-and-test-positivity-57</guid>
+    </item>
+
+  </channel>
+</rss>
